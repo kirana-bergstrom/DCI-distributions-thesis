@@ -1,0 +1,7 @@
+cvxopt
+jupyter
+matplotlib
+numpy
+scipy
+scikit-learn
+seaborn
