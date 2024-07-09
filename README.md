@@ -15,7 +15,7 @@ Welcome to the GitHub repository for the PhD thesis of Kirana Bergstrom, titled 
 
 The repository is organized as follows:
 
-- `src`: This directory contains the source code for implementing the algorithms and conducting experiments discussed in the paper. The file `binning` contains high-level routines for the binning-based method discussed in Section 4. The file `weights` contains lower-level routines for computing the naive weighting method discussed in Section 3.
+- `src`: This directory contains the source code for implementing the algorithms and conducting experiments discussed in the paper. The file `binning` contains high-level routines for the binning-based method discussed in Section 4. The file `weights` contains lower-level routines for computing the naive weighting method discussed in Section 3. The file `utils` contains basic-level routines such as edf computation routines and binning routines.
 
 - `examples`: This directory contains usage examples, needed data, and expected outputs to guide users in reproducing the results.
 

@@ -2,6 +2,7 @@ cvxopt
 jupyter
 matplotlib
 numpy
+pytorch
 scipy
 scikit-learn
 seaborn
